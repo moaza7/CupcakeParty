@@ -8,6 +8,11 @@ package ccc;
 import java.util.Scanner;
 
 public class CupcakeParty {
+
+	 /**
+     * This function will accept user inputs for the cupcake amounts, and then calculate the amount of total cupcakes, and the amount leftover
+     * @param args Command Line Arguments
+     */
 	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
